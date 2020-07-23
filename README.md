@@ -1,5 +1,7 @@
 ## Name Game - Gender Prediction using Sound
 
+##### By CHIAHUEI LIOU | Student of International Business in National Taiwan University
+
 ### Project Description
 
 <p>The same name can be spelled out in a many ways (for example, Marc and Mark, or Elizabeth and Elisabeth). Sound can, therefore, be a better way to match names than spelling. In this project, I use fuzzy name matching and dataset provided by the US Social Security Administration to predict the genders of authors.</p>
